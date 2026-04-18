@@ -1,4 +1,5 @@
 'use client';
+export const dynamic = 'force-dynamic';
 import { useState, useEffect } from 'react';
 import ProtectedRoute from '../../../components/admin/ProtectedRoute';
 import AdminSidebar   from '../../../components/admin/AdminSidebar';
