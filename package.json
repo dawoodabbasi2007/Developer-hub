@@ -9,9 +9,9 @@
     "lint":  "next lint"
   },
   "dependencies": {
-    "next":                  "15.3.1",
-    "react":                 "^19",
-    "react-dom":             "^19",
+    "next":                  "14.2.29",
+    "react":                 "^18",
+    "react-dom":             "^18",
     "@supabase/supabase-js": "^2.39.0",
     "axios":                 "^1.6.0",
     "js-cookie":             "^3.0.5",
@@ -22,7 +22,7 @@
     "autoprefixer":       "^10.0.1",
     "postcss":            "^8",
     "tailwindcss":        "^3.3.0",
-    "eslint":             "^9",
-    "eslint-config-next": "15.3.1"
+    "eslint":             "^8",
+    "eslint-config-next": "14.2.29"
   }
 }
